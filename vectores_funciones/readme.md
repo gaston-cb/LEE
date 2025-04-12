@@ -81,5 +81,4 @@ Cada ejercicio incrementa ligeramente la dificultad, incorporando conceptos clav
 
 ---
 
-## 🚀 Extra (opcional)
 
